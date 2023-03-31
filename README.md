@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krushalsonani" alt="krushalsonani" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend technologies**
+- 🌱 I’m currently working on **Frontend technologies**
 
 - 💬 Ask me about **ReactJS, Javascript, Web Development**
 
